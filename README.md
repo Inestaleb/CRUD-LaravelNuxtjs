@@ -77,9 +77,5 @@ $ npm run dev
 
 ## LaravelNuxtjs Screenshots :
 
-![Alt text](https://gitlab.com/inestaleb/laravelnuxtjs/-/raw/main/image.png?ref_type=heads)
 
-![Alt text](https://gitlab.com/inestaleb/laravelnuxtjs/-/raw/main/image-1.png?ref_type=heads)
-
-![Alt text](https://gitlab.com/inestaleb/laravelnuxtjs/-/raw/main/image-2.png?ref_type=heads)
 
