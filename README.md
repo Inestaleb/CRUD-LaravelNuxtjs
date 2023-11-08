@@ -5,7 +5,7 @@
 ## Step 1:
 
 ```
-$ git clone [https://gitlab.com/inestaleb/laravelnuxtjs.git](https://github.com/Inestaleb/CRUD-LaravelNuxtjs.git)
+$ git clone https://github.com/Inestaleb/CRUD-LaravelNuxtjs.git
 ```
 
 
